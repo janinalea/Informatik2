@@ -1,0 +1,50 @@
+/* CSS Document */
+
+.cta {
+    background-color: #CB9798 !important;
+}
+
+/* CSS Document */
+
+body {
+    font-family: Lora;
+    background: -webkit-gradient(linear,left top,left bottom,from(rgba(255,255,255,.30))),url("img/bg.jpg");
+	background-image: none; 
+    background-color: #EEEEEE;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+#mainNav {
+    background-color:#fff;
+    font-family: Raleway;
+}
+
+
+nav .nav-item .nav-link {
+    color:#000000 !important;
+    font-weight:400 !important;
+}
+
+nav .nav-item .nav-link:hover {
+    color:#CB9798 !important;
+    font-weight:bold !important;
+}
+
+::selection {
+  background: #CB9798 !important; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #CB9798 !important; /* Gecko Browsers */
+}
+
+
+
+
+::selection {
+  background: #CB9798 !important; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #CB9798 !important; /* Gecko Browsers */
+}

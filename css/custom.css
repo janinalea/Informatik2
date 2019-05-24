@@ -1,0 +1,155 @@
+#mainNav .navbar-brand {
+	color: #CECECE;
+	    font-size: 26px;
+	
+}
+
+brand:hover {
+    color: #CB9798;
+	
+}
+#mainNav .navbar-nav .nav-item .nav-link:hover {
+    font-weight: 800;
+	color: #CB9798;
+}
+#mainNav .navbar-brand:hover {
+	color:#ffffff;
+	font-size: 30px;
+	
+}
+header.masthead {
+background-image: url("../img/brooke-lark-537698-unsplash.jpg");
+}
+
+#mainNav.navbar-shrink {
+    background-color: #ffffff;
+}
+.navbar-nav li a{
+	color: black !important;
+}
+
+
+.navbar-nav li a:hover{
+	color: #CB9798 !important;
+}
+
+
+.btn-primary {
+    background-color:#ffffff!important;
+    border-color: #ffffff!important;
+	color:#CB9798;
+}
+
+
+
+
+.btn-primary:hover{
+    background-color: #CB9798!important;
+    border-color: #CB9798!important;
+    color: #ffffff;
+}
+
+
+
+
+.portfolio-link .portfolio-hover {
+    background:#CB9798 !important;
+}
+
+
+.timeline:before {
+    left: 50%;
+	display: none;
+}
+
+
+.page-section {
+    padding: 85px 0;
+	
+}
+
+
+.timeline>li .timeline-panel {
+    float: right;
+    width: 54%;
+    padding: 0 6px 20px 30px;
+    margin-top: 31px;
+    text-align: left;
+}
+
+.timeline>li .timeline-image {
+    width: 300px;
+    height: 300px;
+    margin-left: -41%;
+}
+
+ul.social-buttons li a {
+    font-size: 20px;
+    line-height: 50px;
+    display: block;
+    width: 50px;
+    height: 50px;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+    color: #fff;
+    border-radius: 100%;
+    outline: 0;
+    background-color: #000000;
+}
+
+
+a {
+    color: #FFFFFF;
+}
+
+
+#about {
+	background-color: #CB9798 !important;
+	
+}
+
+.bg-primary {
+    background-color: #CB9798 !important;
+
+	
+}
+
+
+#mainNav .navbar-brand {
+    color: #ffffffff!important;
+    font-family: 'Kaushan Script',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+	letter-spacing: 3px;
+	
+}
+
+#inspiration {
+	background-color: #D3CFCF !important;
+	background-image: url("../img/food-photographer-jennifer-pallian-321038-unsplash.jpg");
+	background-size: cover;
+}
+
+.text-white-50 {
+    color: #fff!important;
+}
+
+
+::selection {
+  background: #CB9798 !important; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #CB9798 !important; /* Gecko Browsers */
+}
+
+.footer{
+	text-align: center;
+}
+
+.text-muted {
+    color: #CB9798 !important;
+}
+
+
+.list-inline{
+	
+	font-weight: bold;
+}

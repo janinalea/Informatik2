@@ -1,0 +1,52 @@
+/* CSS Document */
+
+.bg-primary {
+    background: rgba(203,151,152,.5)!important;
+	
+}
+
+#portfolio .container-fluid .portfolio-box .portfolio-box-caption {
+    color: #fff;
+    background: rgba(203,151,152,.7);
+    transition: opacity .20 ease;
+}
+
+
+
+#mainNav {
+    background-color:#fff;
+    font-family: Raleway;
+	
+}
+
+
+nav .nav-item .nav-link {
+    color:#000000 !important;
+    font-weight:400 !important;
+}
+
+nav .nav-item .nav-link:hover {
+    color:#CB9798 !important;
+    font-weight:bold !important;
+	min-height: 200px;
+}
+
+
+.text-white-50 {
+    color: #fff!important;
+}
+
+
+
+::selection {
+  background: #CB9798 !important; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #CB9798 !important; /* Gecko Browsers */
+}
+
+
+.text-muted {
+    color: #CB9798!important;
+}
+
